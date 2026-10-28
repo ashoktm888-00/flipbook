@@ -1,0 +1,6 @@
+{
+  "name": "AutoFlip - Interactive Flipbook Player",
+  "description": "Automatic page flipping reader and controller for Heyzine flipbooks with configurable delay timer, 3D animations, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
